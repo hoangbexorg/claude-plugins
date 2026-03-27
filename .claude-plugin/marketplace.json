@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ogngnaoh-plugins",
+  "description": "Custom Claude Code plugins for data engineering, plugin discovery, and biomedical research workflows",
+  "owner": {
+    "name": "Hoang Ngo",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "plugin-scout",
+      "description": "Browse all configured Claude Code plugin marketplaces and recommend which plugins to install based on your workflow, project, or codebase.",
+      "author": {
+        "name": "Hoang Ngo"
+      },
+      "source": "./plugins/plugin-scout",
+      "category": "productivity"
+    }
+  ]
+}

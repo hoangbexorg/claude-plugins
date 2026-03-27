@@ -1,0 +1,8 @@
+{
+  "name": "plugin-scout",
+  "description": "Discover and recommend plugins from all configured Claude Code marketplaces based on your workflow needs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hoang Ngo"
+  }
+}
