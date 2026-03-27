@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "ogngnaoh-plugins",
+  "name": "hoangbexorg-plugins",
   "description": "Custom Claude Code plugins for data engineering, plugin discovery, and biomedical research workflows",
   "owner": {
     "name": "Hoang Ngo",

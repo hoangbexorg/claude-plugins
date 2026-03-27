@@ -1,4 +1,4 @@
-# ogngnaoh-plugins
+# hoangbexorg-plugins
 
 Custom Claude Code plugins.
 
@@ -9,8 +9,8 @@ Add this marketplace to your Claude Code settings:
 ```json
 {
   "extraKnownMarketplaces": {
-    "ogngnaoh-plugins": {
-      "source": { "source": "github", "repo": "ogngnaoh/claude-plugins" }
+    "hoangbexorg-plugins": {
+      "source": { "source": "github", "repo": "hoangbexorg/claude-plugins" }
     }
   }
 }
